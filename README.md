@@ -63,7 +63,3 @@ You might also like some of my other open source projects:
 - [Threejs hand tracking tutorial](https://collidingScopes.github.io/threejs-handtracking-101) - Basic hand tracking setup with threejs and MediaPipe computer vision
 - [Particular Drift](https://collidingScopes.github.io/particular-drift) - Turn photos into flowing particle animations
 - [Video-to-ASCII](https://collidingScopes.github.io/ascii) - Convert videos into ASCII pixel art
-
-## Contact
-
-- Instagram: [@k_ashok45](https://www.instagram.com/k_ashok45/)
