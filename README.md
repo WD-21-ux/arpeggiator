@@ -66,15 +66,4 @@ You might also like some of my other open source projects:
 
 ## Contact
 
-- Instagram: [@stereo.drift](https://www.instagram.com/stereo.drift/)
-- Twitter/X: [@measure_plan](https://x.com/measure_plan)
-- Email: [stereodriftvisuals@gmail.com](mailto:stereodriftvisuals@gmail.com)
-- GitHub: [collidingScopes](https://github.com/collidingScopes)
-
-## Donations
-
-If you found this tool useful, feel free to buy me a coffee. 
-
-My name is Alan, and I enjoy building open source software for computer vision, games, and more. This would be much appreciated during late-night coding sessions!
-
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/stereoDrift)
+- Instagram: [@k_ashok45](https://www.instagram.com/k_ashok45/)
